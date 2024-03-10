@@ -1,15 +1,38 @@
-# 💫 About Me:
-Hi 👋, I'm from Nicaragua 🇳🇮.<br>I'm Currently a Computer Engineering Student at UNI 📚👷‍♂️💻<br>and working to become a Software Developer 👨‍💻.
+# Hi there, I'm Steven 👋
+### C# Backend Developer | Software Engineer
 
+Welcome to my GitHub profile! I specialize in C# for backend development, crafting robust systems and efficient solutions. Besides my primary expertise in C#, I'm versatile in other technologies, including Java, TypeScript, and frontend development with React.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Steven-Mendez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Steven-Mendez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Mendez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=Steven-Mendez&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💻 Proficient in C#, .NET, ASP.NET, and SQL.
+- 🌐 Experienced in building scalable and secure RESTful APIs.
+- 🛠 Skilled in Java for versatile backend solutions.
+- 🌐 Proficient in TypeScript for full-stack development.
+- ⚛️ Capable of developing frontend applications with React.
+- 🌟 1 year of professional experience in software development.
+- 🎓 Computer Engineering graduate with a strong foundation in software engineering principles.
+- 🌱 Currently learning Microservices.
+- 👯 I'm open to collaboration and always excited to learn from others.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Technologies & Tools
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=asp.net&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steven-Mendez&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📝 Get in Touch
+
+- 📧 Email: [your.email@example.com](mailto:stevenampaiz@gmail.com)
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/steven-mendez-dev)
+
+Feel free to explore my repositories and reach out for any questions, collaboration, or just to say hi! 😊
