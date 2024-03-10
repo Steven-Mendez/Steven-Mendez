@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I specialize in C# for backend development, crafti
 
 ## 📝 Get in Touch
 
-- 📧 Email: [your.email@example.com](mailto:stevenampaiz@gmail.com)
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/steven-mendez-dev)
+- 📧 Email: [stevenampaiz@gmail.com](mailto:stevenampaiz@gmail.com)
+- 💼 LinkedIn: [Steven Mendez](www.linkedin.com/in/steven-mendez-dev)
 
 Feel free to explore my repositories and reach out for any questions, collaboration, or just to say hi! 😊
