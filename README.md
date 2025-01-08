@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I specialize in C# for backend development, crafti
 - 🛠 Skilled in Java for versatile backend solutions.
 - 🌐 Proficient in TypeScript for full-stack development.
 - ⚛️ Capable of developing frontend applications with React.
-- 🌟 1 year of professional experience in software development.
+- 🌟 2 year of professional experience in software development.
 - 🎓 Computer Engineering graduate with a strong foundation in software engineering principles.
 - 🌱 Currently learning Microservices.
 - 👯 I'm open to collaboration and always excited to learn from others.
