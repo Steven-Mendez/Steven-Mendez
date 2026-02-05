@@ -1,38 +1,47 @@
 # Hi there, I'm Steven 👋
-### C# Backend Developer | Software Engineer
+### Backend Software Engineer
 
-Welcome to my GitHub profile! I specialize in C# for backend development, crafting robust systems and efficient solutions. Besides my primary expertise in C#, I'm versatile in other technologies, including Java, TypeScript, and frontend development with React.
+Welcome to my profile! I am a Software Developer with **3 years of experience**, specialized in building robust backend systems and APIs. My primary focus is on **Python (FastAPI, Flask)** and **Cloud Architectures**, backed by a solid foundation in **C# / .NET**.
+
+I am passionate about writing clean, maintainable code and building scalable solutions that integrate modern technologies like **Generative AI** and **Real-Time Systems**.
 
 ## 🚀 About Me
 
-- 💻 Proficient in C#, .NET, ASP.NET, and SQL.
-- 🌐 Experienced in building scalable and secure RESTful APIs.
-- 🛠 Skilled in Java for versatile backend solutions.
-- 🌐 Proficient in TypeScript for full-stack development.
-- ⚛️ Capable of developing frontend applications with React.
-- 🌟 2 year of professional experience in software development.
-- 🎓 Computer Engineering graduate with a strong foundation in software engineering principles.
-- 🌱 Currently learning Microservices.
-- 👯 I'm open to collaboration and always excited to learn from others.
+- 💻 **Backend Development:** Proficient in designing RESTful APIs and microservices using **FastAPI**, **Flask**, and **Django**.
+- ☁️ **Cloud & Infrastructure:** Experienced in deploying serverless applications on **AWS** and managing containerized environments with **Docker**.
+- 🤖 **AI Integration:** Skilled in implementing LLM-based features (OpenAI, Anthropic) and orchestrating data flows for AI applications.
+- ⚡ **Data & Performance:** Focused on database optimization (SQL) and building efficient data ingestion pipelines.
+- 🌐 **Real-Time Web:** Capable of developing interactive applications using **Socket.IO** and **React**.
 
-## 🔧 Technologies & Tools
+## 🔧 Core Technologies
 
+**Backend Engineering**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=asp.net&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Data & Integrations**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+
+**AI & Frontend**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steven-Mendez&show_icons=true&count_private=true&hide=prs&theme=radical)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## 📝 Get in Touch
 
 - 📧 Email: [stevenampaiz@gmail.com](mailto:stevenampaiz@gmail.com)
-- 💼 LinkedIn: [Steven Mendez](www.linkedin.com/in/steven-mendez-dev)
 
-Feel free to explore my repositories and reach out for any questions, collaboration, or just to say hi! 😊
+Feel free to explore my repositories! 😊
