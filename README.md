@@ -1,6 +1,6 @@
 # Steven Mendez
 
-### Backend & AI Engineer
+### Fullstack
 
 Software Developer with **3+ years of experience** building APIs, backend systems, automation tools, and AI-powered applications.
 
