@@ -1,20 +1,20 @@
 # Steven Mendez
 
-### Fullstack
+### Fullstack Software Engineer
 
-Software Developer with **3+ years of experience** building APIs, backend systems, automation tools, and AI-powered applications.
+Software Developer with **3+ years of experience** building web applications, APIs, automation tools, and production-ready systems.
 
-Focused on **Python**, **FastAPI**, **Django**, **C#/.NET**, **SQL**, **AWS**, **Docker**, LLM integrations, RAG, and real-time systems.
+Focused on **Python**, **FastAPI**, **Django**, **C#/.NET**, **React**, **TypeScript**, **SQL**, **AWS**, **Docker**, LLM integrations, RAG, and real-time systems.
 
 ---
 
 ## ⚙️ Core Areas
 
-- 🧩 Backend & APIs
-- 🤖 AI integrations
+- 🧩 Fullstack web development
+- 🔌 Backend APIs & integrations
+- 🤖 AI-powered applications
 - 🗄️ Databases & performance
 - ☁️ Cloud & DevOps
-- ⚡ Real-time systems
 
 ---
 
